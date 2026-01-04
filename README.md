@@ -18,9 +18,8 @@ NB: To sort the array, use Arrays.sort().
 
 <h3>Solution</h3>
 
-<img alt="Exercise 1 Solution"
-     src="![exec1](https://github.com/user-attachments/assets/75af722d-5eac-4afc-81c3-d38cad75f913)
-" />
+
+![exec1](https://github.com/user-attachments/assets/25b51bae-0068-42be-95e9-d3bb8fcca63a)
 
 <hr>
 
@@ -43,11 +42,8 @@ The program checks that the verb ends with "er" and assumes that it is a regular
 
 <h3>Solution</h3>
 
-<img alt="Exercise 2 Solution"
-     src="![exec2](https://github.com/user-attachments/assets/540b8947-095f-44f8-8d5e-e940dcf67df0)
-" />
 
-<hr>
+![exec2](https://github.com/user-attachments/assets/5798fc60-f4c6-4af4-8437-a237415c24a2)
 
 <h2>Exercise 3</h2>
 
@@ -65,9 +61,8 @@ Operations:
 
 <h3>Solution</h3>
 
-<img alt="Exercise 3 Solution"
-     src="![exec3](https://github.com/user-attachments/assets/7ccb4649-a966-404a-9256-f0ec9022b374)
-" />
+
+![exec3](https://github.com/user-attachments/assets/454ef847-67b0-4af2-a60b-97ab9486163c)
 
 <hr>
 
@@ -93,6 +88,5 @@ The string "Jeanne" contains:
 
 <h3>Solution</h3>
 
-<img alt="Exercise 4 Solution"
-     src="![exec4](https://github.com/user-attachments/assets/5aba887d-cae4-4a05-95cc-ec8f96a99da4)"
- />
+
+![exec4](https://github.com/user-attachments/assets/6ce06ee0-3090-435f-9111-0b80abf8fe1f)
